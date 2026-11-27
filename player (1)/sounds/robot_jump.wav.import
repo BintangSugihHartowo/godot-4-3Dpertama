@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b4x0f4pgfifoo"
+path="res://.godot/imported/robot_jump.wav-111e557d27097569952d72794a6a4b70.sample"
+
+[deps]
+
+source_file="res://player (1)/sounds/robot_jump.wav"
+dest_files=["res://.godot/imported/robot_jump.wav-111e557d27097569952d72794a6a4b70.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,350 @@
+[gd_scene format=3 uid="uid://ysfdjo3s6d8q"]
+
+[ext_resource type="ArrayMesh" uid="uid://cimrujx23dxlc" path="res://OBJ format/arrow.obj" id="1_wp6ir"]
+[ext_resource type="ArrayMesh" uid="uid://b2ofr35je0jyv" path="res://OBJ format/arrows.obj" id="2_i8y4c"]
+[ext_resource type="ArrayMesh" uid="uid://5c0oqel14of8" path="res://OBJ format/barrel.obj" id="3_4xug7"]
+[ext_resource type="ArrayMesh" uid="uid://b4iyjmub8mtjj" path="res://OBJ format/block-grass-large.obj" id="4_hx6jf"]
+[ext_resource type="ArrayMesh" uid="uid://lrve5sd8qah3" path="res://OBJ format/block-moving-blue.obj" id="5_lyivb"]
+[ext_resource type="ArrayMesh" uid="uid://7yk4j1van4wl" path="res://OBJ format/block-moving.obj" id="6_qo0h0"]
+[ext_resource type="ArrayMesh" uid="uid://b2xi4or7kb5wi" path="res://OBJ format/block-snow-large.obj" id="7_2qnf3"]
+[ext_resource type="ArrayMesh" uid="uid://4ffwd743pvje" path="res://OBJ format/block-snow.obj" id="8_m62m3"]
+[ext_resource type="ArrayMesh" uid="uid://ce6yi2q481h2t" path="res://OBJ format/bomb.obj" id="9_d86h3"]
+[ext_resource type="ArrayMesh" uid="uid://bmi5i1bjv7yiu" path="res://OBJ format/button-round.obj" id="10_8w7h8"]
+[ext_resource type="ArrayMesh" uid="uid://s3pmog6l4e8s" path="res://OBJ format/button-square.obj" id="11_pc0j4"]
+[ext_resource type="ArrayMesh" uid="uid://gubf4xsf2j1b" path="res://OBJ format/chest.obj" id="12_b77bl"]
+[ext_resource type="ArrayMesh" uid="uid://bl0cvj2le7oyg" path="res://OBJ format/coin-bronze.obj" id="13_4assq"]
+[ext_resource type="ArrayMesh" uid="uid://b71dyg1n8h7q2" path="res://OBJ format/coin-gold.obj" id="14_upipm"]
+[ext_resource type="ArrayMesh" uid="uid://du6dtwd4abcbp" path="res://OBJ format/coin-silver.obj" id="15_a0ofr"]
+[ext_resource type="ArrayMesh" uid="uid://b7osmf0sat2" path="res://OBJ format/crate-item-strong.obj" id="16_tqcey"]
+[ext_resource type="ArrayMesh" uid="uid://dff2kb0y3mllj" path="res://OBJ format/crate-item.obj" id="17_okg3u"]
+[ext_resource type="ArrayMesh" uid="uid://c2jl5xg2gh8gy" path="res://OBJ format/crate-strong.obj" id="18_1x13g"]
+[ext_resource type="ArrayMesh" uid="uid://hb0vru1jprnl" path="res://OBJ format/crate.obj" id="19_u8tsf"]
+[ext_resource type="ArrayMesh" uid="uid://de2tdf4qim0ql" path="res://OBJ format/door-large-open.obj" id="20_0exv8"]
+[ext_resource type="ArrayMesh" uid="uid://ds4xuti3j1rkw" path="res://OBJ format/door-open.obj" id="21_ddpeu"]
+[ext_resource type="ArrayMesh" uid="uid://b1tsynscyf2ov" path="res://OBJ format/door-rotate-large.obj" id="22_s3kxv"]
+[ext_resource type="ArrayMesh" uid="uid://b3ndrr21h7d8e" path="res://OBJ format/door-rotate.obj" id="23_buonc"]
+[ext_resource type="ArrayMesh" uid="uid://di2wln4ay514o" path="res://OBJ format/fence-broken.obj" id="24_lmuht"]
+[ext_resource type="ArrayMesh" uid="uid://ch1s06da7y0wd" path="res://OBJ format/fence-corner-curved.obj" id="25_3mfvi"]
+[ext_resource type="ArrayMesh" uid="uid://cw5ad4uwi1fp1" path="res://OBJ format/fence-corner.obj" id="26_tt4bi"]
+[ext_resource type="ArrayMesh" uid="uid://r0ed576057og" path="res://OBJ format/fence-low-broken.obj" id="27_uq7uk"]
+[ext_resource type="ArrayMesh" uid="uid://b4bancrmpyh4s" path="res://OBJ format/fence-low-corner-curved.obj" id="28_g7bsf"]
+[ext_resource type="ArrayMesh" uid="uid://dn7k0yvaypf2w" path="res://OBJ format/fence-low-corner.obj" id="29_xhpum"]
+[ext_resource type="ArrayMesh" uid="uid://dd25tr1757doh" path="res://OBJ format/fence-low-straight.obj" id="30_4mtkq"]
+[ext_resource type="ArrayMesh" uid="uid://d0uq72y5nl1og" path="res://OBJ format/fence-straight.obj" id="31_pqvcl"]
+[ext_resource type="ArrayMesh" uid="uid://bb42cjqvawxfm" path="res://OBJ format/flag.obj" id="32_1r2o3"]
+[ext_resource type="ArrayMesh" uid="uid://cd70gwn4pmng3" path="res://OBJ format/flowers-tall.obj" id="33_x2fa6"]
+[ext_resource type="ArrayMesh" uid="uid://volxjyq10x7b" path="res://OBJ format/flowers.obj" id="34_sjbig"]
+[ext_resource type="ArrayMesh" uid="uid://bvj4d8h67chls" path="res://OBJ format/grass.obj" id="35_ioski"]
+[ext_resource type="ArrayMesh" uid="uid://bm52msuk5bnq3" path="res://OBJ format/heart.obj" id="36_fc3c7"]
+[ext_resource type="ArrayMesh" uid="uid://de6ffvqm0p8ii" path="res://OBJ format/hedge-corner.obj" id="37_iwje5"]
+[ext_resource type="ArrayMesh" uid="uid://crhrt74o6wwaw" path="res://OBJ format/hedge.obj" id="38_ba54i"]
+[ext_resource type="ArrayMesh" uid="uid://cw4omx0cfvuec" path="res://OBJ format/jewel.obj" id="39_qs5ev"]
+[ext_resource type="ArrayMesh" uid="uid://dbfcu0eoukg1e" path="res://OBJ format/key.obj" id="40_hi56r"]
+[ext_resource type="ArrayMesh" uid="uid://dq7ningdai8l0" path="res://OBJ format/ladder-broken.obj" id="41_onn1w"]
+[ext_resource type="ArrayMesh" uid="uid://5i01ku5bll7c" path="res://OBJ format/ladder-long.obj" id="42_ee7vu"]
+[ext_resource type="ArrayMesh" uid="uid://l486eppgb8s8" path="res://OBJ format/ladder.obj" id="43_pkl3k"]
+[ext_resource type="ArrayMesh" uid="uid://doqfd5f7m783j" path="res://OBJ format/lever.obj" id="44_l5ens"]
+[ext_resource type="ArrayMesh" uid="uid://b5fl3ftc6yliv" path="res://OBJ format/lock.obj" id="45_64c2h"]
+[ext_resource type="ArrayMesh" uid="uid://1eh2ldpws3ap" path="res://OBJ format/mushrooms.obj" id="46_pw4ff"]
+[ext_resource type="ArrayMesh" uid="uid://buey5xmq3tune" path="res://OBJ format/plant.obj" id="47_5hpjg"]
+[ext_resource type="ArrayMesh" uid="uid://d8ofx51mfmy" path="res://OBJ format/platform-fortified.obj" id="48_je1fj"]
+[ext_resource type="ArrayMesh" uid="uid://c5jtjery8vmer" path="res://OBJ format/platform-overhang.obj" id="49_o12o8"]
+[ext_resource type="ArrayMesh" uid="uid://cchdx4kkcohdo" path="res://OBJ format/platform-ramp.obj" id="50_8ma4l"]
+[ext_resource type="ArrayMesh" uid="uid://cmdbmcoy83ici" path="res://OBJ format/platform.obj" id="51_8cigm"]
+[ext_resource type="ArrayMesh" uid="uid://degf3ghj373b2" path="res://OBJ format/poles.obj" id="52_gbaru"]
+[ext_resource type="ArrayMesh" uid="uid://byvoxuctvhex4" path="res://OBJ format/rocks.obj" id="53_mv3dq"]
+[ext_resource type="ArrayMesh" uid="uid://c04dd5ibv8ggd" path="res://OBJ format/saw.obj" id="54_g2146"]
+[ext_resource type="ArrayMesh" uid="uid://bqg2fhklo367b" path="res://OBJ format/sign.obj" id="55_b1rky"]
+[ext_resource type="ArrayMesh" uid="uid://blkb2ww0prqx6" path="res://OBJ format/spike-block-wide.obj" id="56_urjuf"]
+[ext_resource type="ArrayMesh" uid="uid://cqw6sut4kbgti" path="res://OBJ format/spike-block.obj" id="57_01vev"]
+[ext_resource type="ArrayMesh" uid="uid://rpk1ml21itle" path="res://OBJ format/stones.obj" id="58_7t6t2"]
+[ext_resource type="ArrayMesh" uid="uid://ccnngfym0rwef" path="res://OBJ format/trap-spikes-large.obj" id="59_pg2hp"]
+[ext_resource type="ArrayMesh" uid="uid://hg2qg2kbwu58" path="res://OBJ format/trap-spikes.obj" id="60_bbu3a"]
+[ext_resource type="ArrayMesh" uid="uid://hwnubrcr2uak" path="res://OBJ format/tree-pine-small.obj" id="61_8mjj4"]
+[ext_resource type="ArrayMesh" uid="uid://rwd2dvchdsc3" path="res://OBJ format/tree-pine-snow-small.obj" id="62_m6vq4"]
+[ext_resource type="ArrayMesh" uid="uid://c8lwsa0cl3pfv" path="res://OBJ format/tree-pine-snow.obj" id="63_2r1to"]
+[ext_resource type="ArrayMesh" uid="uid://brhrkvn7h800r" path="res://OBJ format/tree-pine.obj" id="64_jke7v"]
+[ext_resource type="ArrayMesh" uid="uid://buklbblatcrnv" path="res://OBJ format/tree-snow.obj" id="65_ulh5n"]
+[ext_resource type="ArrayMesh" uid="uid://dwl7iqmgrvlnt" path="res://OBJ format/tree.obj" id="66_kjn7h"]
+
+[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_ouk52"]
+points = PackedVector3Array(-0.75368977, 0.875, -1.041062, -0.72637916, 1, -1.0000962, 0.75348604, 0.875, -1.041062, -0.72637916, 0, -1.0000962, -0.91999876, 0, -0.91999876, -0.95688844, 0.875, -0.95688844, -0.91999876, 1, -0.91999876, 0.7261754, 1, -1.0000962, 0.91979504, 1, -0.91999876, 0.9566847, 0.875, -0.95688844, 0.91979504, 0, -0.91999876, 0.7261754, 0, -1.0000962, -1.0000962, 0, -0.72637916, -1.041062, 0.875, -0.75368977, -1.0000962, 1, -0.72637916, 0.99989235, 1, -0.72637916, 1.0408581, 0.875, -0.75368977, 0.99989235, 0, -0.72637916, -1.0000962, 0, 0.7261754, -1.041062, 0.875, 0.75348604, -1.0000962, 1, 0.7261754, 0.99989235, 1, 0.7261754, 1.0408581, 0.875, 0.75348604, 0.99989235, 0, 0.7261754, -0.91999876, 0, 0.91979504, -0.95688844, 0.875, 0.9566847, -0.91999876, 1, 0.91979504, 0.91979504, 1, 0.91979504, 0.9566847, 0.875, 0.9566847, 0.91979504, 0, 0.91979504, -0.72637916, 0, 0.99989235, -0.75368977, 0.875, 1.0408581, -0.72637916, 1, 0.99989235, 0.7261754, 1, 0.99989235, 0.75348604, 0.875, 1.0408581, 0.7261754, 0, 0.99989235)
+
+[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_41v7p"]
+points = PackedVector3Array(-0.75368977, 0.875, -1.041062, -0.72637916, 1, -1.0000962, 0.75348604, 0.875, -1.041062, -0.72637916, -4.563642e-30, -1.0000962, -0.91999876, -4.563642e-30, -0.91999876, -0.95688844, 0.875, -0.95688844, -0.91999876, 1, -0.91999876, 0.7261754, 1, -1.0000962, 0.91979504, 1, -0.91999876, 0.9566847, 0.875, -0.95688844, 0.91979504, -4.563642e-30, -0.91999876, 0.7261754, -4.563642e-30, -1.0000962, -1.0000962, -4.563642e-30, -0.72637916, -1.041062, 0.875, -0.75368977, -1.0000962, 1, -0.72637916, 0.99989235, 1, -0.72637916, 1.0408581, 0.875, -0.75368977, 0.99989235, -4.563642e-30, -0.72637916, -1.0000962, -4.563642e-30, 0.7261754, -1.041062, 0.875, 0.75348604, -1.0000962, 1, 0.7261754, 0.99989235, 1, 0.7261754, 1.0408581, 0.875, 0.75348604, 0.99989235, -4.563642e-30, 0.7261754, -0.91999876, -4.563642e-30, 0.91979504, -0.95688844, 0.875, 0.9566847, -0.91999876, 1, 0.91979504, 0.91979504, 1, 0.91979504, 0.9566847, 0.875, 0.9566847, 0.91979504, -4.563642e-30, 0.91979504, -0.72637916, -4.563642e-30, 0.99989235, -0.75368977, 0.875, 1.0408581, -0.72637916, 1, 0.99989235, 0.7261754, 1, 0.99989235, 0.75348604, 0.875, 1.0408581, 0.7261754, -4.563642e-30, 0.99989235)
+
+[node name="mesh" type="Node3D" unique_id=563951806]
+
+[node name="Arrow" type="MeshInstance3D" parent="." unique_id=2066953033]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("1_wp6ir")
+
+[node name="Arrows" type="MeshInstance3D" parent="." unique_id=468443255]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("2_i8y4c")
+
+[node name="Barrel" type="MeshInstance3D" parent="." unique_id=276950716]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("3_4xug7")
+
+[node name="BlockGrassLarge" type="MeshInstance3D" parent="." unique_id=2117302527]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("4_hx6jf")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="BlockGrassLarge" unique_id=789624438]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="BlockGrassLarge/StaticBody3D" unique_id=1502065708]
+shape = SubResource("ConvexPolygonShape3D_ouk52")
+
+[node name="BlockMovingBlue" type="MeshInstance3D" parent="." unique_id=1831611924]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("5_lyivb")
+
+[node name="BlockMoving" type="MeshInstance3D" parent="." unique_id=255618730]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("6_qo0h0")
+
+[node name="BlockSnowLarge" type="MeshInstance3D" parent="." unique_id=852370653]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("7_2qnf3")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="BlockSnowLarge" unique_id=144134704]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="BlockSnowLarge/StaticBody3D" unique_id=253580668]
+shape = SubResource("ConvexPolygonShape3D_41v7p")
+
+[node name="BlockSnow" type="MeshInstance3D" parent="." unique_id=1016962262]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("8_m62m3")
+
+[node name="Bomb" type="MeshInstance3D" parent="." unique_id=667479386]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("9_d86h3")
+
+[node name="ButtonRound" type="MeshInstance3D" parent="." unique_id=1330262199]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("10_8w7h8")
+
+[node name="ButtonSquare" type="MeshInstance3D" parent="." unique_id=510079698]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("11_pc0j4")
+
+[node name="Chest" type="MeshInstance3D" parent="." unique_id=458918183]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("12_b77bl")
+
+[node name="CoinBronze" type="MeshInstance3D" parent="." unique_id=651290733]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("13_4assq")
+
+[node name="CoinGold" type="MeshInstance3D" parent="." unique_id=1457219625]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("14_upipm")
+
+[node name="CoinSilver" type="MeshInstance3D" parent="." unique_id=1061860630]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("15_a0ofr")
+
+[node name="CrateItemStrong" type="MeshInstance3D" parent="." unique_id=879085438]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("16_tqcey")
+
+[node name="CrateItem" type="MeshInstance3D" parent="." unique_id=1786532996]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("17_okg3u")
+
+[node name="CrateStrong" type="MeshInstance3D" parent="." unique_id=276366366]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("18_1x13g")
+
+[node name="Crate" type="MeshInstance3D" parent="." unique_id=1039658237]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("19_u8tsf")
+
+[node name="DoorLargeOpen" type="MeshInstance3D" parent="." unique_id=997411146]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("20_0exv8")
+
+[node name="DoorOpen" type="MeshInstance3D" parent="." unique_id=111463752]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("21_ddpeu")
+
+[node name="DoorRotateLarge" type="MeshInstance3D" parent="." unique_id=1784699200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("22_s3kxv")
+
+[node name="DoorRotate" type="MeshInstance3D" parent="." unique_id=270813762]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("23_buonc")
+
+[node name="FenceBroken" type="MeshInstance3D" parent="." unique_id=865891914]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("24_lmuht")
+
+[node name="FenceCornerCurved" type="MeshInstance3D" parent="." unique_id=1631187460]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("25_3mfvi")
+
+[node name="FenceCorner" type="MeshInstance3D" parent="." unique_id=11516723]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("26_tt4bi")
+
+[node name="FenceLowBroken" type="MeshInstance3D" parent="." unique_id=742411298]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("27_uq7uk")
+
+[node name="FenceLowCornerCurved" type="MeshInstance3D" parent="." unique_id=709417715]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("28_g7bsf")
+
+[node name="FenceLowCorner" type="MeshInstance3D" parent="." unique_id=1259084679]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("29_xhpum")
+
+[node name="FenceLowStraight" type="MeshInstance3D" parent="." unique_id=328049269]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("30_4mtkq")
+
+[node name="FenceStraight" type="MeshInstance3D" parent="." unique_id=107277920]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("31_pqvcl")
+
+[node name="Flag" type="MeshInstance3D" parent="." unique_id=36312176]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("32_1r2o3")
+
+[node name="FlowersTall" type="MeshInstance3D" parent="." unique_id=1811180543]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("33_x2fa6")
+
+[node name="Flowers" type="MeshInstance3D" parent="." unique_id=901135282]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("34_sjbig")
+
+[node name="Grass" type="MeshInstance3D" parent="." unique_id=177383710]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("35_ioski")
+
+[node name="Heart" type="MeshInstance3D" parent="." unique_id=112649857]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("36_fc3c7")
+
+[node name="HedgeCorner" type="MeshInstance3D" parent="." unique_id=2049551938]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("37_iwje5")
+
+[node name="Hedge" type="MeshInstance3D" parent="." unique_id=950926398]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("38_ba54i")
+
+[node name="Jewel" type="MeshInstance3D" parent="." unique_id=1440959349]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("39_qs5ev")
+
+[node name="Key" type="MeshInstance3D" parent="." unique_id=1677368802]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("40_hi56r")
+
+[node name="LadderBroken" type="MeshInstance3D" parent="." unique_id=855834567]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("41_onn1w")
+
+[node name="LadderLong" type="MeshInstance3D" parent="." unique_id=337447082]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("42_ee7vu")
+
+[node name="Ladder" type="MeshInstance3D" parent="." unique_id=1369158216]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("43_pkl3k")
+
+[node name="Lever" type="MeshInstance3D" parent="." unique_id=1307136837]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("44_l5ens")
+
+[node name="Lock" type="MeshInstance3D" parent="." unique_id=2016782722]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("45_64c2h")
+
+[node name="Mushrooms" type="MeshInstance3D" parent="." unique_id=709172768]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("46_pw4ff")
+
+[node name="Plant" type="MeshInstance3D" parent="." unique_id=1741269769]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("47_5hpjg")
+
+[node name="PlatformFortified" type="MeshInstance3D" parent="." unique_id=1019499305]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("48_je1fj")
+
+[node name="PlatformOverhang" type="MeshInstance3D" parent="." unique_id=54796816]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("49_o12o8")
+
+[node name="PlatformRamp" type="MeshInstance3D" parent="." unique_id=385892395]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("50_8ma4l")
+
+[node name="Platform" type="MeshInstance3D" parent="." unique_id=1311151230]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("51_8cigm")
+
+[node name="Poles" type="MeshInstance3D" parent="." unique_id=1608572703]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("52_gbaru")
+
+[node name="Rocks" type="MeshInstance3D" parent="." unique_id=2018859757]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("53_mv3dq")
+
+[node name="Saw" type="MeshInstance3D" parent="." unique_id=1828895429]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("54_g2146")
+
+[node name="Sign" type="MeshInstance3D" parent="." unique_id=1102308217]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("55_b1rky")
+
+[node name="SpikeBlockWide" type="MeshInstance3D" parent="." unique_id=891119539]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("56_urjuf")
+
+[node name="SpikeBlock" type="MeshInstance3D" parent="." unique_id=1351588235]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("57_01vev")
+
+[node name="Stones" type="MeshInstance3D" parent="." unique_id=2022303124]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("58_7t6t2")
+
+[node name="TrapSpikesLarge" type="MeshInstance3D" parent="." unique_id=1765222947]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("59_pg2hp")
+
+[node name="TrapSpikes" type="MeshInstance3D" parent="." unique_id=156289865]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("60_bbu3a")
+
+[node name="TreePineSmall" type="MeshInstance3D" parent="." unique_id=1962402562]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("61_8mjj4")
+
+[node name="TreePineSnowSmall" type="MeshInstance3D" parent="." unique_id=1513628759]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("62_m6vq4")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="." unique_id=10457353]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("63_2r1to")
+
+[node name="TreePine" type="MeshInstance3D" parent="." unique_id=650205335]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("64_jke7v")
+
+[node name="TreeSnow" type="MeshInstance3D" parent="." unique_id=376739177]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("65_ulh5n")
+
+[node name="Tree" type="MeshInstance3D" parent="." unique_id=691131906]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.499622e-05, 0, 4.684925e-05)
+mesh = ExtResource("66_kjn7h")
